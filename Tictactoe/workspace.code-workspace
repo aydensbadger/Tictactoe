@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "tictactoe",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.extraPaths": [
+			"./game_code"
+		]
+	}
+}
